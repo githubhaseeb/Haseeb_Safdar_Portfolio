@@ -2,8 +2,8 @@
 
 #### Technical Skills: Power BI, Python, SQL, Excel, EDA, MATLAB
 
-## Get in touch
-📧 haseebsafdar31@gmail.com
+### Get in touch
+📧[ haseebsafdar31@gmail.com]
 📱+97471281240
 
 
