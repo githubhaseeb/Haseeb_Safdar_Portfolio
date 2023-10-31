@@ -2,6 +2,12 @@
 
 #### Technical Skills: Power BI, Python, SQL, Excel, EDA, MATLAB
 
+## Get in touch
+📧 haseebsafdar31@gmail.com
+📱+97471281240
+
+
+
 ## Education
 - BS in Computer Science | Khwaja Fareed University of Engineering & Information Technology (KFUEIT) (_March 2023_)
   
