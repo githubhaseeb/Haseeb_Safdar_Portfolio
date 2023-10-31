@@ -20,12 +20,13 @@
 - 	Created and maintained interactive data visualizations using tools like Tableau and Power BI to present insights to stakeholders.
 -   Produced regular reports and dashboards to monitor key performance indicators (KPIs) and track business performance.
 
- ## PROJECT EXPERIENCE  
+## Project Experience
+ 
 ### Hospitality Analysis - [Power BI |Excel]                                                               
 - 	Developed and executed a comprehensive Hospitality Power BI Analysis Project, leveraging advanced data visualization and analysis techniques to identify key trends and insights in the hospitality industry.
 - 	Created interactive dashboards and visualizations using Power BI, facilitating data-driven decision-making and enhancing business performance within the hospitality sector.
 - 	Generated actionable insights that led to a 15% increase in occupancy rates and a 10% improvement in revenue, contributing to the overall growth and profitability of the hospitality business.
-- 	
+   
 ![Hospitality](https://github.com/githubhaseeb/Haseeb_Safdar_Portfolio/assets/98270092/b1c2e220-4351-4d3e-bae0-933f84dbce2f)
 
 ### HR Data Analysis - [Power BI | Excel]	 	                                                                    	                                
@@ -41,6 +42,7 @@
 - 	This dashboard could assist in raising the revenue at least by 7% in the next quarter.
 
 ![Sales_Analysis](https://github.com/githubhaseeb/Haseeb_Safdar_Portfolio/assets/98270092/e368b1cd-734a-4346-ab35-f3f7da4bbc02)
+
 
 ### Predicting Home Prices in Bangalore - [Python |ML| SQL | Excel]
 
