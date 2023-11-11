@@ -19,8 +19,8 @@
 - 	Conducted thorough testing of the HRMS (Human Resource Management System) software to ensure its functionality and accuracy. 
 - 	Identified and documented 50+ software bugs, issues, and inconsistencies in the system; collaborated closely with the development team to resolve them, resulting in a 40% reduction in customer support tickets and improved overall user experience	 
 	 
-### Virtual Soft Pakistan.  								                         NOV 2021 – DEC 2024
-#### Data Analyst Intern
+### Virtual Soft Pakistan.  								                         NOV 2021 – DEC 2022
+#### Data Analyst 
 - 	Collected, cleaned, and processed large datasets from various sources for analysis using Python and SQL.
 - 	Conducted exploratory data analysis (EDA) to uncover patterns, trends, and anomalies in the data. 
 - 	Created and maintained interactive data visualizations using tools like Tableau and Power BI to present insights to stakeholders.
